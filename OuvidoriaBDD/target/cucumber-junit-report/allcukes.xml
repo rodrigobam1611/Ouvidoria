@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="2" tests="2" time="0">
+<testcase classname="Login" name="Como um usuário valido, posso logar no sistema" time="0">
+<skipped><![CDATA[Dado que estou na tela de Login.............................................undefined
+Quando digitar credenciais válidas..........................................undefined
+E clicar no botão de login..................................................undefined
+Então devo acessar a Home do sistema........................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Login" name="Como um usuário inválido, devo visualizar uma mensagem de erro e continuar na página de Login" time="0">
+<skipped><![CDATA[Dado que estou na tela de Login.............................................undefined
+Quando digitar credenciais inválidas........................................undefined
+E clicar no botão login.....................................................undefined
+Então devo ver uma mensagem de erro.........................................undefined
+E devo estar na tela de Login...............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
